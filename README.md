@@ -25,7 +25,7 @@ String encryption:
 
 String decryption:
   
-> Strdes.decode("a secrypt string")
+> Strdes.decode("a secret string")
 
 Acknowledgements
 ================
