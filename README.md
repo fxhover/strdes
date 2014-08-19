@@ -14,13 +14,15 @@ gem "strdes"
 
 And run bundle install. 
 
-Use:
+Use
 ====
-
+require 'strdes'
 String encryption:
+  
   Strdes.encode("string")
 
 String decryption:
+  
   Strdes.decode("a secrypt string")
 
 Acknowledgements
