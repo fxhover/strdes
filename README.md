@@ -6,11 +6,11 @@ A simple string encryption and decryption
 Installation
 ============
 
-gem install strdes
+> gem install strdes
 
 Or in rails:
 
-gem "strdes"
+> gem "strdes"
 
 And run bundle install. 
 
