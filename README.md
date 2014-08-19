@@ -1,9 +1,9 @@
-strdes
+Strdes
 ======
 
 A simple string encryption and decryption
 
-installation
+Installation
 ============
 
 gem install strdes
