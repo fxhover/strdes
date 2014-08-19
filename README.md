@@ -16,14 +16,16 @@ And run bundle install.
 
 Use
 ====
-require 'strdes'
+> require 'strdes'
+
+
 String encryption:
   
-  Strdes.encode("string")
+> Strdes.encode("string")
 
 String decryption:
   
-  Strdes.decode("a secrypt string")
+> Strdes.decode("a secrypt string")
 
 Acknowledgements
 ================
